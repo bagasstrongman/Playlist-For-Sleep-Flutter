@@ -1,8 +1,8 @@
 # flutter_playlist_for_your_night_sleep_apps
 
-Owner and Design Exploration by : [Nola Riska](https://www.behance.net/nolariska17)
+Credit Owner and Design Exploration by [Nola Riska](https://www.behance.net/nolariska17)
 
-[See Original Design Here](https://www.behance.net/gallery/131116029/Playlist-for-Your-Night-Sleep)
+Also see original design [here](https://www.behance.net/gallery/131116029/Playlist-for-Your-Night-Sleep)
 
 | Onboarding Page     | Home Page      |  
 | ------------- | -------------    | 
